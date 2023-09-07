@@ -9,17 +9,17 @@ Hi, Currently I am working as a **Trainee Programmer** at Yash Technologies Hyde
 ---
 
 <aside>
-<img src="https://www.notion.so/icons/link_gray.svg" alt="https://www.notion.so/icons/link_gray.svg" width="40px" /> [**My Resume**](https://drive.google.com/file/d/1rKg8XtEBFLOJavXcVb_rTokC_c82tzt1/view?usp=sharing)
+ [**My Resume**](https://drive.google.com/file/d/1rKg8XtEBFLOJavXcVb_rTokC_c82tzt1/view?usp=sharing)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/link_gray.svg" alt="https://www.notion.so/icons/link_gray.svg" width="40px" /> [**Linkedin Profile**](https://www.linkedin.com/in/bhaskarveduruparthi/)
+ [**Linkedin Profile**](https://www.linkedin.com/in/bhaskarveduruparthi/)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/link_gray.svg" alt="https://www.notion.so/icons/link_gray.svg" width="40px" /> [**Github Profile**](https://github.com/BhaskarVeduruparthi)
+ [**Github Profile**](https://github.com/BhaskarVeduruparthi)
 
 </aside>
 
